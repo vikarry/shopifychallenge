@@ -5,7 +5,7 @@ Given some sample data, write a program to answer the following: click here to a
 
 On Shopify, we have exactly 100 sneaker shops, and each of these shops sells only one model of shoe. We want to do some analysis of the average order value (AOV). When we look at orders data over a 30 day window, we naively calculate an AOV of $3145.13. Given that we know these shops are selling sneakers, a relatively affordable item, something seems wrong with our analysis. 
 
-[1.a Think about what could be going wrong with our calculation. Think about a better way to evaluate this data.](-Question-1.a)
+[1.a Think about what could be going wrong with our calculation. Think about a better way to evaluate this data.](#question-1a)
 
 #### Question 1.b	 
 What metric would you report for this dataset?
@@ -27,7 +27,7 @@ What product was ordered the most by customers in Germany?
 
 # Solutions:
 
-## Question 1.a
+### Question 1.a
 Looking at the original data, the AOV is 3145.128, however the standard deviation is extremely high indicating the inaccuracy
 
 ![Screen Shot 2022-05-18 at 12 23 30 PM](https://user-images.githubusercontent.com/59035332/169093560-09a5206a-856d-4c6d-b9db-4b55db849b54.png)
